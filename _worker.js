@@ -5,7 +5,7 @@ import { connect } from 'cloudflare:sockets';
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
 let userID = 'd342d11e-d424-4583-b36e-524ab1f0afa4';
 
-const proxyIPs = ['cdn.xn--b6gac.eu.org', 'cdn-all.xn--b6gac.eu.org', 'workers.cloudflare.cyou', 'edgetunnel.anycast.eu.org''time.cloudflare.com', 
+const proxyIPs = ['cdn.xn--b6gac.eu.org', 'cdn-all.xn--b6gac.eu.org', 'workers.cloudflare.cyou', 'edgetunnel.anycast.eu.org','time.cloudflare.com', 
 	'shopify.com',
 	'time.is',
 	'icook.hk',
@@ -39,8 +39,6 @@ const proxyIPs = ['cdn.xn--b6gac.eu.org', 'cdn-all.xn--b6gac.eu.org', 'workers.c
 	'www.udemy.com',
 	'www.baipiao.eu.org',
 	'cdn.anycast.eu.org',
-	'cdn-all.xn--b6gac.eu.org',
-	'cdn-b100.xn--b6gac.eu.org',
 	'xn--b6gac.eu.org',
 	'edgetunnel.anycast.eu.org',
 	'alejandracaiccedo.com',
