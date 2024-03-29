@@ -938,5 +938,25 @@ const cn_hostnames = [
 	'www.cnblogs.com',          // Cnblogs - A Chinese technology blog community
 	'www.cntv.cn',              // CCTV - China Central Television official website
 	'www.secoo.com',            // Secoo - A Chinese luxury e-commerce platform
+	'www.google.com.sg',
+	'www.facebook.com',
+	'www.whatsapp.com',
+	'shopee.sg',
+	'www.channelnewsasia.com',
+	'theindependent.sg',
+	'sg.carousell.com',
+	'www.lazada.sg',
+	'www.google.co.in',
+	'www.amazon.in',
+	'twitter.com',
+	'indianexpress.com',
+	'www.bhaskar.com',
+	'www.indiamart.com',
+	'www.hdfcbank.com',
+	'www.icicibank.com',
+	'www.onlinesbi.com',
+	'www.kotak.com',
+	'www.bankofindia.co.in',
+	'www.unionbankofindia.co.in',
 	
 ];
