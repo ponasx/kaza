@@ -828,7 +828,7 @@ ${vlessSec}
 }
 
 const portSet_http = new Set([80, 8080, 8880, 2052, 2086, 2095, 2082]);
-const portSet_https = new Set([443, 8443, 2053, 2096, 2087, 2083]);
+const portSet_https = new Set([43, 443, 8443, 2053, 2096, 2087, 2083, 10025, 10096, 10106, 10411, 10434, 11423, 33060, 39460]);
 
 function createVLESSSub(userID_Path, hostName) {
 	const userIDArray = userID_Path.includes(',') ? userID_Path.split(',') : [userID_Path];
